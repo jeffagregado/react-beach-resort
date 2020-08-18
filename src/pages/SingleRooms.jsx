@@ -4,7 +4,7 @@ import { RoomContext } from "../context";
 
 // Components
 import defaultBcg from "../images/room-1.jpeg";
-import Hero from "../components/Hero";
+// import Hero from "../components/Hero";
 import Banner from "../components/Banner";
 import StyledHero from "../components/StyledHero";
 
